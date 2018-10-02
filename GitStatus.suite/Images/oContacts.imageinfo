@@ -1,21 +1,24 @@
 ﻿{
+    Bitmask = <ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffff0380 ffffffff ffff0300 f8ffffff ff3f0000 f8ffffff ff1f0000 80ffffff ff1f0000 80ffffff ff0f0000 00f0ffff ff0f0000 00f0ffff ff0f0000 00f0ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ff0f0000 0080ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0000 00e0ffff ffff0300 00e0ffff ffff0300 00f0ffff ffffff07 00f8ffff ffffff07 00f8ffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff>;
+    BitmaskSize = "64,64";
     CaptureDate = "2018-10-02 18:08:57 +0000";
     CaptureHost = "Tutorial Connection";
     CaptureScreenSize =     (
         427,
         640
     );
-    HasAlpha = 1;
+    CropRectangle = "0,0,47,64";
+    HasAlpha = 0;
     HotSpotX = 32;
     HotSpotY = 32;
+    ImageDescription = <>;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 23;
     OriginalLocationY = 576;
-    Precise = 0;
+    Precise = 1;
     Pulsing = 0;
     Scale = 1;
-    SearchAlgorithm = TextSmoothSquare;
     tags =     (
     );
 }

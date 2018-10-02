@@ -2,13 +2,18 @@
     EPVersionNumber = 1810011425;
     Schedules =     (
                 {
-            ChangeCount = 1;
+            ChangeCount = 2;
             Name = "Schedule 1";
             Schedule =             (
                                 {
                     Num = 1;
                     Run = YES;
                     Script = "Untitled1.script";
+                },
+                                {
+                    Num = 2;
+                    Run = YES;
+                    Script = "Untitled.script";
                 }
             );
         }

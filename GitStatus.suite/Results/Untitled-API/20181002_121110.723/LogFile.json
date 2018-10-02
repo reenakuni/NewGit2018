@@ -1,0 +1,20 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.apitest",
+      "timestamp" : "2018-10-02 12:11:10.724 -0600"
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.133353\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-02 12:11:10 -0600\", Successes:\"1\", TestCase:\"Untitled.apitest\", Warnings:\"0\")",
+      "timestamp" : "2018-10-02 12:11:11.862 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled.apitest",
+      "timestamp" : "2018-10-02 12:11:11.874 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-02 12:11:10.728 -0600"
+}

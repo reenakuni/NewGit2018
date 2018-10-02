@@ -1,7 +1,6 @@
-Feature:
+﻿Feature:
 
   Scenario:
-    Given 
-    When 
-    Then 
-
+    Given dssd
+    When lkskl
+    Then sdsd

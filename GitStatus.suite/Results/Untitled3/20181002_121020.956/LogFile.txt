@@ -1,0 +1,4 @@
+﻿2018-10-02 12:10:20.957 -0600	START		Running Untitled3.table
+2018-10-02 12:10:20.972 -0600	Exception	wew	Could Not Open Image: wew
+2018-10-02 12:10:20.973 -0600	EndTestCase		(Duration:"0.014906", Errors:"1", Exceptions:"1", StartTime:"2018-10-02 12:10:20 -0600", Successes:"0", TestCase:"Untitled3.table", Warnings:"0")
+2018-10-02 12:10:21.073 -0600	FAILURE	Screen_Error.png	File Not Found Click Error - Could Not Open Image: wew -- Execution Time 0:00:00 Untitled3.table

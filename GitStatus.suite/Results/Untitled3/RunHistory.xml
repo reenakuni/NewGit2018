@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Untitled3">
+ <run>
+  <RunDate>2018-10-02 12:10:20.956 -0600</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.016764</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20181002_121020.956/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- Click Error - Could Not Open Image: wew</ErrorMessage>
+ </run>
+</runHistory>
