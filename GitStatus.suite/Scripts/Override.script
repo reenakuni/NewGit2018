@@ -1,0 +1,96 @@
+﻿
+(*
+put SearchApi() into foo
+put foo.requestBody
+
+encode 
+
+click "oContact"
+
+UpdateaRealissue(url:"http://dev.testplant.com/issues/15311.xml")
+*)
+
+
+log x
+put 2 into x
+put 4 into y
+Assert that y is greater than x
+
+
+(*
+ApiTest2(url:"http://bugs.testplant.com/issues/14618.xml",userName:[[uname]])
+http://dev.testplant.com/issues.json?assigned_to_id=me&status_id=open
+
+
+OverrideURLparam(url:"http://dev.testplant.com/issues.json?assigned_to_id=Jeannette&status_id=feedback")
+*)
+
+(*
+put SearchApi() into foo
+put foo.requestBody
+
+encode 
+
+click "oContact"
+
+UpdateaRealissue(url:"http://dev.testplant.com/issues/15311.xml")
+*)
+
+
+log x
+put 2 into x
+put 4 into y
+Assert that y is greater than x
+
+
+(*
+ApiTest2(url:"http://bugs.testplant.com/issues/14618.xml",userName:[[uname]])
+http://dev.testplant.com/issues.json?assigned_to_id=me&status_id=open
+
+
+OverrideURLparam(url:"http://dev.testplant.com/issues.json?assigned_to_id=Jeannette&status_id=feedback")
+*)
+
+(*
+put SearchApi() into foo
+put foo.requestBody
+
+encode 
+
+click "oContact"
+
+UpdateaRealissue(url:"http://dev.testplant.com/issues/15311.xml")
+*)
+
+
+log x
+put 2 into x
+put 4 into y
+Assert that y is greater than x
+
+
+(*
+ApiTest2(url:"http://bugs.testplant.com/issues/14618.xml",userName:[[uname]])
+http://dev.testplant.com/issues.json?assigned_to_id=me&status_id=open
+
+
+OverrideURLparam(url:"http://dev.testplant.com/issues.json?assigned_to_id=Jeannette&status_id=feedback")
+*)
+skjskfksjfjk
+dfdlkflkdf
+dlkflkdlkfd
+ldkldklf
+lkskrlwklere
+rererer
+erere
+rere
+re
+re
+r
+er
+e
+r
+e
+r
+ere
+\flkdfedjgrlhlkfhlfgklhlfkghlkgfhklgkhlglkhglkhgklhgkllhkghkghlkglhkglkhglkhglkhlkghklglkhglkhkglhghghghghgkhlgkhlkglkhghgklhklglkhlgkhghglkhlk

@@ -1,27 +1,3 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="Untitled-API">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-02 12:11:10 -0600</FirstRun>
-  <LastRun>2018-10-02 12:11:10 -0600</LastRun>
-  <TotalTimeOnSuccess>1.137969</TotalTimeOnSuccess>
- </script>
- <script name="Untitled">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>2</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-01 13:59:42 -0600</FirstRun>
-  <LastRun>2018-10-01 14:06:34 -0600</LastRun>
-  <TotalTimeOnSuccess>1.278586</TotalTimeOnSuccess>
- </script>
- <script name="Untitled3">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>1</NumberOfFails>
-  <FirstRun>2018-10-02 12:10:20 -0600</FirstRun>
-  <LastRun>2018-10-02 12:10:20 -0600</LastRun>
-  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
- </script>
 </statistics>
