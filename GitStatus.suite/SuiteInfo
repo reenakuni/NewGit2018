@@ -1,6 +1,17 @@
 ﻿{
     EPVersionNumber = 1810011425;
     Schedules =     (
+                {
+            ChangeCount = 1;
+            Name = "Schedule 1";
+            Schedule =             (
+                                {
+                    Num = 1;
+                    Run = YES;
+                    Script = "Untitled1.script";
+                }
+            );
+        }
     );
     ScriptMetaData =     {
     };
@@ -10,6 +21,9 @@
     helperSuitesInfo =     (
                 {
             filePath = "/Users/reenakuni/Documents/Untitledq.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/jhj.suite";
         }
     );
 }
