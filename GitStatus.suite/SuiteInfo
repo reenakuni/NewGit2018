@@ -4,6 +4,7 @@
                 {
             ChangeCount = 2;
             Name = "Schedule 1";
+            Path = "~~schedule~~Schedule 1";
             Schedule =             (
                                 {
                     Num = 1;
@@ -29,6 +30,9 @@
         },
                 {
             filePath = "/Users/reenakuni/Documents/jhj.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/EggplantProjects/Miscellaneous.suite";
         }
     );
 }
