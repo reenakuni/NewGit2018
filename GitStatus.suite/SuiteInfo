@@ -34,6 +34,9 @@
         },
                 {
             filePath = "/Users/reenakuni/Documents/EggplantProjects/Miscellaneous.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Untitled.suite";
         }
     );
 }
