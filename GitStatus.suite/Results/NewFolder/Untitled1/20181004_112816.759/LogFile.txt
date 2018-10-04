@@ -1,0 +1,4 @@
+﻿2018-10-04 11:28:16.760 -0600	START		Running NewFolder/Untitled1.script
+2018-10-04 11:28:16.880 -0600	Log		dkfkd	1	on_newfolder_untitled1	NewFolder/Untitled1.script
+2018-10-04 11:28:18.144 -0600	EndTestCase		(Duration:"1.379011", Errors:"0", Exceptions:"0", StartTime:"2018-10-04 11:28:16 -0600", Successes:"1", TestCase:"NewFolder/Untitled1.script", Warnings:"0")
+2018-10-04 11:28:18.162 -0600	SUCCESS		Execution Time 0:00:01 NewFolder/Untitled1.script
