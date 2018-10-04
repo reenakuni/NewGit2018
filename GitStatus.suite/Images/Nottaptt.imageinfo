@@ -8,6 +8,10 @@
     HasAlpha = 1;
     HotSpotX = 32;
     HotSpotY = 32;
+    ImageDescription = <>;
+    ImageTags =     (
+        GitStatus
+    );
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
     OriginalLocationX = 5;
@@ -17,5 +21,6 @@
     Scale = 1;
     SearchAlgorithm = TextSmoothSquare;
     tags =     (
+        GitStatus
     );
 }

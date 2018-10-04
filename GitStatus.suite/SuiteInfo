@@ -1,5 +1,5 @@
 ﻿{
-    EPVersionNumber = 1810011425;
+    EPVersionNumber = 1810040202;
     Schedules =     (
                 {
             ChangeCount = 2;
@@ -22,7 +22,10 @@
     ScriptMetaData =     {
     };
     SuiteEncodedTextKey = "S-mVg+fc1kvPF(w*";
-    SuiteVariables = "{\n dsds:@\"sdsd\",\n zxz:@\"\"\n}";
+    SuiteVariables = "{\n dsds:@\"sdsd\",\n lkkl:@\"lkklkkl\",\n zxz:@\"\"\n}";
+    Tags =     (
+        GitStatus
+    );
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
@@ -34,6 +37,15 @@
         },
                 {
             filePath = "/Users/reenakuni/Documents/EggplantProjects/Miscellaneous.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Untitled.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/eggDriveTests.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/Untitledq.suite";
         },
                 {
             filePath = "/Users/reenakuni/Documents/Untitled.suite";
