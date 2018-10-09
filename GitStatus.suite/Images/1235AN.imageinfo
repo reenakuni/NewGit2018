@@ -1,5 +1,5 @@
 ﻿{
-    CaptureDate = "2018-10-04 17:30:00 +0000";
+    CaptureDate = "2018-10-05 19:05:14 +0000";
     CaptureHost = "Tutorial Connection";
     CaptureScreenSize =     (
         427,
@@ -10,8 +10,8 @@
     HotSpotY = 32;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 230;
-    OriginalLocationY = 576;
+    OriginalLocationX = 178;
+    OriginalLocationY = 0;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;

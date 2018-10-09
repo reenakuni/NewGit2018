@@ -1,0 +1,68 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running hello12.script",
+      "timestamp" : "2018-10-04 14:01:47.140 -0600"
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.189 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.195 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.199 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 4
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.204 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 5
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.208 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 6
+    },
+    {
+      "handlerName" : "on_hello12",
+      "message" : "qwqasasas",
+      "timestamp" : "2018-10-04 14:01:47.212 -0600",
+      "identifier" : "Log",
+      "scriptName" : "hello12.script",
+      "handlerLine" : 7
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.258513\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-04 14:01:47 -0600\", Successes:\"1\", TestCase:\"hello12.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-04 14:01:48.402 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 hello12.script",
+      "timestamp" : "2018-10-04 14:01:48.419 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-04 14:01:47.142 -0600"
+}

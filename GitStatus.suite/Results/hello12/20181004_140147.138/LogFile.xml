@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="hello12_script" package="GitStatus.suite" timestamp="2018-10-04 14:01:47.138 -0600"
+ tests="1"  failures="0" errors="0" time="1.263313">
+  <properties>
+   <property name="RunDate" value="2018-10-04 14:01:47.138 -0600"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="hello12.script" assertions="1" status="success"  time="1.258513">
+  </testcase>
+ </testsuite>
+</testsuites>
