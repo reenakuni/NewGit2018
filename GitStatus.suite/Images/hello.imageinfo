@@ -1,4 +1,6 @@
 ﻿{
+    Bitmask = <ffffffff ffffffff ffffff0f 00f8ffff ffffff03 00e0ffff ffffff03 00e00000 ffffff03 00000000 ffffff03 00000000 ffffff03 00000000 ffffff03 00000000 ffffff03 00000000 ffffff03 00000000 ffffff03 00000000 ffffffff 01000000 ffffffff 010080ff ffffffff ffffffff ffffffff 07e0ffff ffffffff 01e0ffff ffffffff 0000ffff ffffffff 0000e0ff ffffffff 0000e0ff ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 000000f8 ffffffff 01000000 ffffffff 03000000 ffffffff 1f000000 ffffffff 7f000000 ffffffff ff1f0000 ffffffff ff1f0000 ffffffff ff1f0000 ffffffff ffff0f00 ffffffff ffff0f00 ffffffff ffff0f00 ffffffff ffff0f00 ffffffff ffffff07 ffffffff ffffff07 ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff ffffffff>;
+    BitmaskSize = "64,64";
     CaptureDate = "2018-10-02 18:09:50 +0000";
     CaptureHost = "Tutorial Connection";
     CaptureScreenSize =     (

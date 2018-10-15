@@ -1,8 +1,8 @@
 ﻿{
-    EPVersionNumber = 1810120201;
+    EPVersionNumber = 1810151047;
     Schedules =     (
                 {
-            ChangeCount = 2;
+            ChangeCount = 3;
             Name = "Schedule 1";
             Path = "~~schedule~~Schedule 1";
             Schedule =             (
@@ -15,6 +15,11 @@
                     Num = 2;
                     Run = YES;
                     Script = "Untitled.script";
+                },
+                                {
+                    Num = 3;
+                    Run = YES;
+                    Script = "hello12.script";
                 }
             );
         }

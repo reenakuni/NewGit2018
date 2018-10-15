@@ -1,5 +1,5 @@
 ﻿{
-    CaptureDate = "2018-10-08 17:51:31 +0000";
+    CaptureDate = "2018-10-15 17:24:26 +0000";
     CaptureHost = "Tutorial Connection";
     CaptureScreenSize =     (
         427,
@@ -10,11 +10,12 @@
     HotSpotY = 32;
     LastKnownLocationX = 0;
     LastKnownLocationY = 0;
-    OriginalLocationX = 360;
-    OriginalLocationY = 6;
+    OriginalLocationX = 126;
+    OriginalLocationY = 576;
     Precise = 0;
     Pulsing = 0;
     Scale = 1;
+    SearchAlgorithm = TextSmoothSquare;
     tags =     (
     );
 }

@@ -1,43 +1,11 @@
 ﻿<?xml version="1.0"?>
 <statistics>
- <script name="hello12">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>3</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-04 14:01:07 -0600</FirstRun>
-  <LastRun>2018-10-04 14:01:47 -0600</LastRun>
-  <TotalTimeOnSuccess>3.949055</TotalTimeOnSuccess>
- </script>
- <script name="Untitled1">
+ <script name="hello1">
   <LastStatus>Success</LastStatus>
   <NumberOfRuns>3</NumberOfRuns>
   <NumberOfFails>0</NumberOfFails>
   <FirstRun>2018-10-03 13:53:31 -0600</FirstRun>
   <LastRun>2018-10-03 15:55:51 -0600</LastRun>
   <TotalTimeOnSuccess>1.996583</TotalTimeOnSuccess>
- </script>
- <script name="NewFolder/Untitled1">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-04 11:28:16 -0600</FirstRun>
-  <LastRun>2018-10-04 11:28:16 -0600</LastRun>
-  <TotalTimeOnSuccess>1.384373</TotalTimeOnSuccess>
- </script>
- <script name="NewFolder/Untitled">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-04 11:28:27 -0600</FirstRun>
-  <LastRun>2018-10-04 11:28:27 -0600</LastRun>
-  <TotalTimeOnSuccess>1.270448</TotalTimeOnSuccess>
- </script>
- <script name="NewFolder/Untitled3">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>1</NumberOfRuns>
-  <NumberOfFails>0</NumberOfFails>
-  <FirstRun>2018-10-04 11:53:08 -0600</FirstRun>
-  <LastRun>2018-10-04 11:53:08 -0600</LastRun>
-  <TotalTimeOnSuccess>1.239800</TotalTimeOnSuccess>
  </script>
 </statistics>
