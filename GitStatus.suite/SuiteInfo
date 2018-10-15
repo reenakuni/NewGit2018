@@ -1,5 +1,5 @@
 ﻿{
-    EPVersionNumber = 1810090203;
+    EPVersionNumber = 1810120201;
     Schedules =     (
                 {
             ChangeCount = 2;
@@ -43,27 +43,6 @@
     helpedSuitesInfo =     (
     );
     helperSuitesInfo =     (
-                {
-            filePath = "/Users/reenakuni/Documents/Untitledq.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/jhj.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/EggplantProjects/Miscellaneous.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/Untitled.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/eggDriveTests.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/Untitledq.suite";
-        },
-                {
-            filePath = "/Users/reenakuni/Documents/Untitled.suite";
-        },
                 {
             filePath = "/Users/reenakuni/Documents/ghhg.suite";
         }
