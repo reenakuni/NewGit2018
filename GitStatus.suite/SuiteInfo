@@ -28,7 +28,7 @@
     ScriptMetaData =     {
     };
     SuiteEncodedTextKey = "S-mVg+fc1kvPF(w*";
-    SuiteVariables = "{\n JS:@\"678\",\n reena:@\"1234\"\n}";
+    SuiteVariables = "{\n JS:@\"678\",\n reena:@\"1234\",\n sfsdfdf:@\"\"\n}";
     Tags =     (
         GitStatus
     );
