@@ -50,6 +50,9 @@
     helperSuitesInfo =     (
                 {
             filePath = "/Users/reenakuni/Documents/ghhg.suite";
+        },
+                {
+            filePath = "/Users/reenakuni/Documents/service_portal.suite";
         }
     );
 }
