@@ -1,0 +1,5 @@
+﻿2018-10-16 11:40:10.085 -0600	START		Running TestBug17316/hello1.script	1	on_untitled	Untitled.script
+2018-10-16 11:40:10.099 -0600	Log		x	1	on_testbug17316_hello1	TestBug17316/hello1.script
+2018-10-16 11:40:10.104 -0600	Log		1234	3	on_testbug17316_hello1	TestBug17316/hello1.script
+2018-10-16 11:40:10.108 -0600	EndTestCase		(Duration:"0.020487", Errors:"0", Exceptions:"0", StartTime:"2018-10-16 11:40:10 -0600", Successes:"1", TestCase:"TestBug17316/hello1.script", Warnings:"0")	1	on_untitled	Untitled.script
+2018-10-16 11:40:10.128 -0600	SUCCESS		Execution Time 0:00:00 TestBug17316/hello1.script	1	on_untitled	Untitled.script

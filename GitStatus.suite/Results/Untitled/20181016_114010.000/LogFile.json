@@ -1,0 +1,15 @@
+{
+  "entries" : [
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.095573\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-16 11:40:10 -0600\", Successes:\"2\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-16 11:40:11.101 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 Untitled.script",
+      "timestamp" : "2018-10-16 11:40:11.121 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-16 11:40:11.103 -0600"
+}

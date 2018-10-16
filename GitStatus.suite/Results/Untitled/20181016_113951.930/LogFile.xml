@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="Untitled_script" package="GitStatus.suite" timestamp="2018-10-16 11:39:51.930 -0600"
+ tests="1"  failures="1" errors="1" time="1.069683">
+  <properties>
+   <property name="RunDate" value="2018-10-16 11:39:51.930 -0600"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="Untitled.script" assertions="1" status="error"  time="1.062826">
+    <failure type="FAILURE" message="Error Running Script Command runwithnewresults Error - Unable to locate script named: TestBug/hello1 -- Execution Time 0:00:01 Untitled.script" />
+    <error type="Exception" message="Unable to locate script named: TestBug/hello1" />
+  </testcase>
+ </testsuite>
+</testsuites>

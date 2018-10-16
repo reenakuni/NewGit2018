@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running NewFolder\/Untitled3.script",
+      "timestamp" : "2018-10-04 11:53:08.337 -0600"
+    },
+    {
+      "handlerName" : "on_newfolder_untitled3",
+      "message" : "(script:\"log me\")",
+      "timestamp" : "2018-10-04 11:53:08.436 -0600",
+      "identifier" : "Log",
+      "scriptName" : "NewFolder\/Untitled3.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.235553\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-04 11:53:08 -0600\", Successes:\"1\", TestCase:\"NewFolder\/Untitled3.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-04 11:53:09.576 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 NewFolder\/Untitled3.script",
+      "timestamp" : "2018-10-04 11:53:09.591 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-04 11:53:08.339 -0600"
+}

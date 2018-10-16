@@ -1,0 +1,28 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running NewFolder\/Untitled.script",
+      "timestamp" : "2018-10-04 11:28:27.886 -0600"
+    },
+    {
+      "handlerName" : "on_newfolder_untitled",
+      "message" : "cmmcnbvb",
+      "timestamp" : "2018-10-04 11:28:27.957 -0600",
+      "identifier" : "Log",
+      "scriptName" : "NewFolder\/Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.266235\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-04 11:28:27 -0600\", Successes:\"1\", TestCase:\"NewFolder\/Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-04 11:28:29.156 -0600"
+    },
+    {
+      "identifier" : "SUCCESS",
+      "message" : "Execution Time 0:00:01 NewFolder\/Untitled.script",
+      "timestamp" : "2018-10-04 11:28:29.169 -0600"
+    }
+  ],
+  "created_timestamp" : "2018-10-04 11:28:27.888 -0600"
+}

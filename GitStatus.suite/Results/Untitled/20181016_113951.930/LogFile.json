@@ -1,0 +1,29 @@
+{
+  "entries" : [
+    {
+      "identifier" : "START",
+      "message" : "Running Untitled.script",
+      "timestamp" : "2018-10-16 11:39:51.933 -0600"
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Unable to locate script named: TestBug\/hello1",
+      "timestamp" : "2018-10-16 11:39:52.010 -0600",
+      "identifier" : "Exception",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "identifier" : "EndTestCase",
+      "message" : "(Duration:\"1.062826\", Errors:\"1\", Exceptions:\"1\", StartTime:\"2018-10-16 11:39:51 -0600\", Successes:\"0\", TestCase:\"Untitled.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-16 11:39:53.000 -0600"
+    },
+    {
+      "message" : "Error Running Script Command runwithnewresults Error - Unable to locate script named: TestBug\/hello1 -- Execution Time 0:00:01 Untitled.script",
+      "timestamp" : "2018-10-16 11:39:53.088 -0600",
+      "identifier" : "FAILURE",
+      "image" : "Screen_Error.png"
+    }
+  ],
+  "created_timestamp" : "2018-10-16 11:39:51.936 -0600"
+}

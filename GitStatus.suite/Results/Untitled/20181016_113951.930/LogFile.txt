@@ -1,0 +1,4 @@
+﻿2018-10-16 11:39:51.933 -0600	START		Running Untitled.script
+2018-10-16 11:39:52.010 -0600	Exception		Unable to locate script named: TestBug/hello1	1	on_untitled	Untitled.script
+2018-10-16 11:39:53.000 -0600	EndTestCase		(Duration:"1.062826", Errors:"1", Exceptions:"1", StartTime:"2018-10-16 11:39:51 -0600", Successes:"0", TestCase:"Untitled.script", Warnings:"0")
+2018-10-16 11:39:53.088 -0600	FAILURE	Screen_Error.png	Error Running Script Command runwithnewresults Error - Unable to locate script named: TestBug/hello1 -- Execution Time 0:00:01 Untitled.script

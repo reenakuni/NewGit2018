@@ -1,0 +1,4 @@
+﻿2018-10-16 11:39:23.985 -0600	START		Running Untitled.script
+2018-10-16 11:39:24.063 -0600	runwithnewresults		hello1.script (/Users/reenakuni/Documents/EggplantProjects/18.2/RemoteGit2018/GitStatus.suite/Results/TestBug/hello1/20181016_113924.062/LogFile.txt)	1	on_untitled	Untitled.script
+2018-10-16 11:39:25.066 -0600	EndTestCase		(Duration:"1.077406", Errors:"0", Exceptions:"0", StartTime:"2018-10-16 11:39:23 -0600", Successes:"2", TestCase:"Untitled.script", Warnings:"0")
+2018-10-16 11:39:25.086 -0600	SUCCESS		Execution Time 0:00:01 Untitled.script

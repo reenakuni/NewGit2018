@@ -1,0 +1,4 @@
+﻿2018-10-04 11:53:08.337 -0600	START		Running NewFolder/Untitled3.script
+2018-10-04 11:53:08.436 -0600	Log		(script:"log me")	1	on_newfolder_untitled3	NewFolder/Untitled3.script
+2018-10-04 11:53:09.576 -0600	EndTestCase		(Duration:"1.235553", Errors:"0", Exceptions:"0", StartTime:"2018-10-04 11:53:08 -0600", Successes:"1", TestCase:"NewFolder/Untitled3.script", Warnings:"0")
+2018-10-04 11:53:09.591 -0600	SUCCESS		Execution Time 0:00:01 NewFolder/Untitled3.script

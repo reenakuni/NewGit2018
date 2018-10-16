@@ -1,0 +1,45 @@
+{
+  "entries" : [
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Running TestBug\/hello1.script",
+      "timestamp" : "2018-10-16 11:39:24.066 -0600",
+      "identifier" : "START",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_testbug_hello1",
+      "message" : "x",
+      "timestamp" : "2018-10-16 11:39:24.088 -0600",
+      "identifier" : "Log",
+      "scriptName" : "TestBug\/hello1.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_testbug_hello1",
+      "message" : "1234",
+      "timestamp" : "2018-10-16 11:39:24.093 -0600",
+      "identifier" : "Log",
+      "scriptName" : "TestBug\/hello1.script",
+      "handlerLine" : 3
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "(Duration:\"0.029813\", Errors:\"0\", Exceptions:\"0\", StartTime:\"2018-10-16 11:39:24 -0600\", Successes:\"1\", TestCase:\"TestBug\/hello1.script\", Warnings:\"0\")",
+      "timestamp" : "2018-10-16 11:39:24.098 -0600",
+      "identifier" : "EndTestCase",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    },
+    {
+      "handlerName" : "on_untitled",
+      "message" : "Execution Time 0:00:00 TestBug\/hello1.script",
+      "timestamp" : "2018-10-16 11:39:24.119 -0600",
+      "identifier" : "SUCCESS",
+      "scriptName" : "Untitled.script",
+      "handlerLine" : 1
+    }
+  ],
+  "created_timestamp" : "2018-10-16 11:39:24.068 -0600"
+}
