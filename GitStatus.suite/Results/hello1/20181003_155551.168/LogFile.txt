@@ -1,4 +1,0 @@
-﻿2018-10-03 15:55:51.171 -0600	START		Running Untitled1.script
-2018-10-03 15:55:51.325 -0600	Log		x	1	on_untitled1	Untitled1.script
-2018-10-03 15:55:51.877 -0600	EndTestCase		(Duration:"0.69609", Errors:"0", Exceptions:"0", StartTime:"2018-10-03 15:55:51 -0600", Successes:"1", TestCase:"Untitled1.script", Warnings:"0")
-2018-10-03 15:55:51.890 -0600	SUCCESS		Execution Time 0:00:00 Untitled1.script

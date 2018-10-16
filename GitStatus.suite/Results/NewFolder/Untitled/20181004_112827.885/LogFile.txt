@@ -1,4 +1,0 @@
-﻿2018-10-04 11:28:27.886 -0600	START		Running NewFolder/Untitled.script
-2018-10-04 11:28:27.957 -0600	Log		cmmcnbvb	1	on_newfolder_untitled	NewFolder/Untitled.script
-2018-10-04 11:28:29.156 -0600	EndTestCase		(Duration:"1.266235", Errors:"0", Exceptions:"0", StartTime:"2018-10-04 11:28:27 -0600", Successes:"1", TestCase:"NewFolder/Untitled.script", Warnings:"0")
-2018-10-04 11:28:29.169 -0600	SUCCESS		Execution Time 0:00:01 NewFolder/Untitled.script

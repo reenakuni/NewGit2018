@@ -1,3 +1,6 @@
 ﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
 2018-10-01 13:59:42.532 -0600,"Success",0:00:00,0,0,0,"20181001_135942.532/LogFile.txt","","",1
 2018-10-01 14:06:34.442 -0600,"Success",0:00:00,0,0,0,"20181001_140634.442/LogFile.txt","","",1
+2018-10-16 11:39:23.983 -0600,"Success",0:00:01,0,0,0,"20181016_113923.983/LogFile.txt","","",1
+2018-10-16 11:39:51.930 -0600,"Failure",0:00:01,1,0,1,"20181016_113951.930/LogFile.txt","","Error Running Script Command -- runwithnewresults Error - Unable to locate script named: TestBug/hello1",0
+2018-10-16 11:40:10.000 -0600,"Success",0:00:01,0,0,0,"20181016_114010.000/LogFile.txt","","",1
