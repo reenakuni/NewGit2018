@@ -1,2 +1,4 @@
 ﻿RunWithNewResults "TestBug17316/hello1"
 put the last item of ScriptResults("TestBug17316/hello1")
+
+log x
